@@ -19,7 +19,7 @@ public void print3(){System.out.println("Gilebi");}
  public static void main(String args[]){
 Scanner v=new Scanner(System.in) ;
 int c=0;
-System.out.println("CHOOSE:\n1.Milkybar\n2.Twix\n3.KajuBarfi\n4.Gilebi");
+System.out.println("CHOOSE ANY ITEM:\n1.Milkybar\n2.Twix\n3.KajuBarfi\n4.Gilebi");
 while(true)
 {
 Sweets obj = new Sweets();  
